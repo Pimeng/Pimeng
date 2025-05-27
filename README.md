@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ## 联系方式
 - QQ 群组：
-  1. [云露露官方群](qm.qq.com/q/X7n7Sxv9cu)
+  1. [云露露官方群](//qm.qq.com/q/X7n7Sxv9cu)
 - Discord（不常用）：pimeng7143
 - GitHub：[Pimeng](https://github.com/Pimeng)
 - Gitee: [Pimeng](https://gitee.com/Pimeng)
