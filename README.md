@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - 哔哩哔哩：[皮梦](https://space.bilibili.com/36191664)
 - 我的邮箱：
 1. pimeng@vip.qq.com
-2. pimeng@pimeng.icu
+2. pimeng7143@gmail.com（不常用）
 
 ## 赞助支持
 - 爱发电：<https://afdian.com/a/Pimeng>
