@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Pimeng😄
 
-> 也提供简体中文页面[https://github.com/Pimeng/Pimeng/README.md](https://github.com/Pimeng/Pimeng/blob/main/README.md)
+> 也提供简体中文页面[跳转](https://github.com/Pimeng/Pimeng/blob/main/README.md)
 
 <div>
   <picture>
