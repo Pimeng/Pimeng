@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![访问量](https://profile-counter.glitch.me/Pimeng/count.svg)
 
 <div>
   <picture>
