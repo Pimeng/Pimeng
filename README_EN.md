@@ -23,8 +23,8 @@ My Blog
 - GitHub：[Pimeng](https://github.com/Pimeng)
 - QQ：[1470458485](https://qm.qq.com/cgi-bin/qm/qr?k=hsFXJNxXDUkOKvBdb_cQWN0FoPJI2mvZ&s=1)
 - My Email：
-1. pimeng@vip.qq.com
-2. pimeng7143@gmail.com（不常用）
+1. i@pmya.xyz
+2. pimeng7143@gmail.com（Not commonly used）
 
 ## Sponsor me
 It not Service For Other Country, Plz Stay tuned!
