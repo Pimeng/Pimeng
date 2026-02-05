@@ -2,17 +2,17 @@
 
 > 也提供简体中文页面[跳转](https://github.com/Pimeng/Pimeng/blob/main/README.md)
 
-<div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Pimeng&show_icons=true&locale=cn&theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Pimeng&show_icons=true&locale=cn">
-    <img alt="会变亮变暗的GitHub状态！" src="https://github-readme-stats.vercel.app/api?username=Pimeng&show_icons=true&locale=cn">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Pimeng&locale=cn&theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Pimeng&locale=cn">
-    <img alt="会变亮变暗的常用语言！" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pimeng&locale=cn">
-  </picture>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Source+Han+Sans+SC+VF&center=true&pause=1000&color=c277e0&width=435&lines=Pimeng+IS+BIG+Baka%ef%bc%81"
+        alt="Typing SVG" />
+</p>
+
+<div align="center">
+    <img height="170px" src="https://readme-omega.vercel.app/api?username=Pimeng" />
+    <img height="170px"
+        src="https://readme-omega.vercel.app/api/top-langs/?username=Pimeng&layout=compact&langs_count=8" />
+    <img src="https://readme-streak-stats-tau.vercel.app/?user=Pimeng&theme=vue&hide_border=true&short_numbers=true"
+        alt="GitHub Streak" />
 </div>
 
 My Blog
