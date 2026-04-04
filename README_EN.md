@@ -16,7 +16,7 @@
 </div>
 
 My Blog
-<https://blog.pmnet.work>
+<https://blog.07210700.xyz>
 
 ## Contact ME From
 - Discord（Not commonly used）：pimeng7143
