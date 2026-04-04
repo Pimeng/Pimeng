@@ -22,7 +22,7 @@
 </div>
 
 个人博客
-<https://blog.pmnet.work>
+<https://blog.07210700.xyz>
 
 ## 联系方式
 - QQ 群组：
