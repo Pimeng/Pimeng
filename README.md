@@ -35,7 +35,7 @@
 - 抖音：[Pimeng](https://www.douyin.com/user/MS4wLjABAAAA9kP9Z27bew4pCG-EMcXvt53Pn3h8tHJ0RzcJypRLpbpvptCwiQAy8OOM99_sqICl)
 - 哔哩哔哩：[皮梦](https://space.bilibili.com/36191664)
 - 我的邮箱：
-1. i@pmya.xyz
+1. i@07210700.xyz
 2. pimeng7143@gmail.com（不常用）
 
 ## 赞助支持
