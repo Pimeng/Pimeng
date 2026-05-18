@@ -23,7 +23,7 @@ My Blog
 - GitHub：[Pimeng](https://github.com/Pimeng)
 - QQ：[1470458485](https://qm.qq.com/cgi-bin/qm/qr?k=hsFXJNxXDUkOKvBdb_cQWN0FoPJI2mvZ&s=1)
 - My Email：
-1. i@pmya.xyz
+1. i@07210700.xyz
 2. pimeng7143@gmail.com（Not commonly used）
 
 ## Sponsor me
