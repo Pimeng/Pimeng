@@ -21,6 +21,8 @@
         alt="GitHub Streak" />
 </div>
 
+[![Tokens Stats](https://tokens.ci/api/embed/Pimeng/svg?template=minimal&color=orange&today=1&tokens=full&cost=full)](https://tokens.ci/u/Pimeng)
+
 个人博客
 <https://blog.07210700.xyz>
 
