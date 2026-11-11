@@ -19,9 +19,9 @@
         src="https://readme-omega.vercel.app/api/top-langs/?username=Pimeng&layout=compact&langs_count=8" />
     <img src="https://readme-streak-stats-tau.vercel.app/?user=Pimeng&theme=vue&hide_border=true&short_numbers=true"
         alt="GitHub Streak" />
+    <img src="https://tokens.ci/api/embed/Pimeng/svg?template=minimal&color=orange&today=1&tokens=full&cost=full"
+        alt="Token Use" />
 </div>
-
-[![Tokens Stats](https://tokens.ci/api/embed/Pimeng/svg?template=minimal&color=orange&today=1&tokens=full&cost=full)](https://tokens.ci/u/Pimeng)
 
 个人博客
 <https://blog.07210700.xyz>
